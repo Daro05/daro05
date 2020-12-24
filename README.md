@@ -1,7 +1,7 @@
 
 
 
-<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="500" height="500">
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="350" height="350">
 ### Hi there 👋 
 
 **Daro05/daro05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
