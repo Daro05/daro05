@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<img src="https://gph.is/2N04M0U" width="40" height="40" />
+[![Header](https://media.giphy.com/media/gKrlsx785XGaIBvQ7S/giphy.gif)]
+
 **Daro05/daro05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devded" alt="devded" /> </p>
