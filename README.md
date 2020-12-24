@@ -2,17 +2,15 @@
 
 
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="350" height="350">
-### Hi there 👋 
+### Hola 👋 
 
 **Daro05/daro05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devded" alt="devded" /> </p>
-
-Here are some ideas to get you started:
 
 - 🔭 Compartiendo un poco de mi conocimiento con la comunidad
 - 🌱 Siempre me encuentro aprendiendo...
-- 📫 How to reach me: ...
+- 📫 How to reach me: danielro87@outlook.com
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
