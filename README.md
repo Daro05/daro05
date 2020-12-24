@@ -2,7 +2,7 @@
 
 
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="350" height="350">
-### Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"width="30px">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"width="30px">
 
 **Daro05/daro05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
