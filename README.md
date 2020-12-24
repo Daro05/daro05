@@ -1,6 +1,6 @@
 
 
-![Header](https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif | width=100)
+![Header](https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif | =250x250)
 
 ### Hi there 👋 
 
