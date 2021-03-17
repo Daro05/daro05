@@ -11,36 +11,25 @@
 - 🌱 Siempre me encuentro aprendiendo...
 - 📫 How to reach me: danielro87@outlook.com
 
-
-
-<p align="center">
-<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
     <a href="https://www.w3.org/html/" target="_blank"> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/> 
     </a>  
     <a href="https://www.w3schools.com/css/" target="_blank"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="RStudio" width="40" height="40"/> 
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="https://cdn0.iconfinder.com/data/icons/cosmo-multimedia/40/terminal_application-512.png" alt="javascript" width="40" height="40"/> 
+        <img src="https://cdn0.iconfinder.com/data/icons/cosmo-multimedia/40/terminal_application-512.png" alt="CML" width="40" height="40"/> 
     </a>
     <a href="https://getbootstrap.com" target="_blank"> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
+        <img src="https://unifysolutions.net/supportedproduct/microsoft-sql-server/SQL-Databases.svg" alt="SQL" width="40" height="40"/> 
     </a> 
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    </a>
     <a href="https://git-scm.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
     <a href="https://www.linux.org/" target="_blank"> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" alt="SAS" width="40" height="40"/> 
     </a> 
 </p>
