@@ -23,10 +23,10 @@
         <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     </a>  
     <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="css3" width="40" height="40"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg" alt="RStudio" width="40" height="40"/> 
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+        <img src="https://cdn0.iconfinder.com/data/icons/cosmo-multimedia/40/terminal_application-512.png" alt="javascript" width="40" height="40"/> 
     </a>
     <a href="https://getbootstrap.com" target="_blank"> 
         <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
