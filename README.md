@@ -10,9 +10,8 @@
 - 🔭 Compartiendo un poco de mi conocimiento con la comunidad
 - 🌱 Siempre me encuentro aprendiendo...
 - 📫 How to reach me: danielro87@outlook.com
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
